@@ -1,3 +1,3 @@
 # STA312_Breast_Cancer
 Analysis on relationships among age, malignancy of tumour and mortality.
-This repository includes the R code and the PowerPoint Presentation.
+This repository includes csv data file, R codes and PowerPoint Presentation.
